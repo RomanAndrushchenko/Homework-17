@@ -1,0 +1,373 @@
+.container-down-second {
+  .main {
+    width: 1410px;
+    margin: 100px auto;
+    position: relative;
+  }
+  .card-green-down {
+    background-color: #00730c;
+    width: 330px;
+    height: 408px;
+    padding: 60px 25px 60px 35px;
+    border-radius: 10px;
+    margin: 0px 15px;
+    position: relative;
+  }
+  .card-down {
+    width: 330px;
+    height: 408px;
+    padding: 60px 25px 60px 35px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 2px 11px 30px rgba(51, 51, 51, 0.08);
+    margin: 0px 15px;
+    position: relative;
+  }
+  .number {
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 78px;
+    color: #e3e3e3;
+    text-align: end;
+  }
+  .number-white {
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 78px;
+    color: white;
+    text-shadow: 1px 4px 4px rgba(0, 0, 0, 0.15);
+    text-align: end;
+  }
+  .main-white-left {
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: capitalize;
+    color: white;
+  }
+  .main-txt-left {
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: capitalize;
+    color: #212529;
+  }
+  .main-left-str {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #676767;
+    padding-top: 15px;
+  }
+  .main-str-white {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: white;
+    padding-top: 15px;
+  }
+  .img-flavor-1 {
+    background-image: url("images/main-down-1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 110px;
+    height: 160px;
+    position: absolute;
+    top: 33%;
+    left: 60%;
+  }
+  .img-flavor-2 {
+    background-image: url("images/main-down-2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 110px;
+    height: 160px;
+    position: absolute;
+    top: 33%;
+    left: 60%;
+  }
+  .back-icon-1 {
+    background-image: url("images/number-1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 18%;
+    left: 11%;
+  }
+  .back-icon-2 {
+    background-image: url("images/number-2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 18%;
+    left: 11%;
+  }
+  .back-icon-3 {
+    background-image: url("images/number-3.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 18%;
+    left: 11%;
+  }
+  .back-icon-4 {
+    background-image: url("images/number-4.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 18%;
+    left: 11%;
+  }
+  .back-img-down {
+    background-image: url("images/hands-3.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 1410px;
+    height: 300px;
+    margin: 100px 0;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+  }
+  .in-txt {
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 33px;
+    color: white;
+    width: 450px;
+    height: 90px;
+  }
+  .in-btn {
+    position: relative;
+    width: 170px;
+    height: 50px;
+    margin-right: 60px;
+    margin-left: 85px;
+  }
+  .in-btn button {
+    width: 170px;
+    height: 50px;
+    background: #ffffff;
+    box-shadow: 1px 4px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    color: #00730c;
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 50px;
+    border: none;
+    text-align: end;
+    padding-right: 35px;
+  }
+  .img-phone-green {
+    background-image: url("images/phone-green.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 20%;
+    left: 15%;
+  }
+  .head-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+  }
+  .head-txt {
+    margin-right: 260px;
+    width: 960px;
+  }
+  .txt-first {
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 45px;
+    color: #000000;
+  }
+  .txt-first span {
+    color: #00730c;
+  }
+  .txt-second {
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #676767;
+  }
+  .btn-head {
+    width: 190px;
+    height: 50px;
+    background: #00730c;
+    border-radius: 5px;
+    border: none;
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    color: white;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+  }
+  .card-first-green {
+    background: linear-gradient(
+      6.68deg,
+      #00730c 4.95%,
+      rgba(251, 246, 238, 0) 264.79%
+    );
+    width: 330px;
+    height: 408px;
+    border-radius: 10px;
+    margin: 0px auto;
+    padding: 150px 90px 190px 90px;
+    text-align: center;
+    position: relative;
+  }
+  .img-icons-social {
+    background-image: url("images/Icons.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 250px;
+    height: 30px;
+    position: absolute;
+    top: 60%;
+    left: 12.5%;
+  }
+  .txt-first-card {
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: capitalize;
+    color: #ffffff;
+    margin: 0;
+  }
+  .txt-second-card {
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #ffffff;
+    margin-top: 10px;
+  }
+  .card-another {
+    background: linear-gradient(
+      6.68deg,
+      #00730c 4.95%,
+      rgba(251, 246, 238, 0) 264.79%
+    );
+    width: 330px;
+    height: 408px;
+    border-radius: 10px;
+    margin: 0px auto;
+    padding: 320px 90px 10px 90px;
+    text-align: center;
+    position: relative;
+  }
+  .img-social {
+    background-image: url("images/denis-jordan.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 330px;
+    height: 408px;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    opacity: 20%;
+  }
+  .img-expert {
+    background-image: url("images/expert.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 330px;
+    height: 312px;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+  }
+  .cont-down-2 {
+    background-image: url("images/BG-main-down.png");
+    width: 1920px;
+    height: 585px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    position: relative;
+  }
+  .img-card-smith {
+    background-image: url("images/Card-jane.png");
+    width: 690px;
+    height: 340px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    position: absolute;
+    bottom: -10%;
+    right: 11.5%;
+  }
+  .img-card-jane {
+    background-image: url("images/Card-jane.png");
+    width: 690px;
+    height: 340px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    position: absolute;
+    bottom: -10%;
+    left: 11.5%;
+  }
+  .head-down-2 {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    position: relative;
+  }
+  .img-arrow-left {
+    background-image: url("images/arrow-left.png");
+    width: 50px;
+    height: 50px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+  }
+  .img-arrow-right-white {
+    background-image: url("images/arrow-right-white.png");
+    width: 50px;
+    height: 50px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    position: absolute;
+    bottom: 5%;
+    right: 0%;
+  }
+}
